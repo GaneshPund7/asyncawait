@@ -1,0 +1,9 @@
+ES6 fetures 
+1 block of scoped 
+let and const 
+2 arrow function
+
+3 Template litterals 
+the template litteral provide feture by the es6 which can interpollation string 
+It support mulitiline stirng using back sticks 
+for example 
