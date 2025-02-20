@@ -53,3 +53,4 @@ const counter = (function(){
 })();
 console.log(counter.getCount());
 console.log(counter.increment());
+

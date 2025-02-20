@@ -3,12 +3,11 @@
 //     console.log(a);
 // }catch(err){
 // // console.log("Please declare first a and the run code",err.message);
-// throw new Error("Shanya adhi a la tr define kr",err.message);
+// throw new Error("a la tr define kr",err.message);
 // }
 
 // finally{
 //     console.log(`This is finally block of code which run every time`);
-
 // }
 
 function dividedNo(numb){
@@ -28,4 +27,5 @@ console.error("Error in excetion", error.message);
 }
 }
  dividedNo(9);
+
 
